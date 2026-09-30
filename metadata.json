@@ -1,0 +1,6 @@
+{
+  "name": "SmartTutor AI",
+  "description": "Modern AI-powered online tutoring platform with step-by-step interactive lessons, quiz grading, Nigerian curriculum support (WAEC, NECO, JAMB), practice generator, and student analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
